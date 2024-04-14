@@ -1,5 +1,5 @@
 replicas: 1
 image:
   repository: manuel814/spring
-  tag: 7.0.0
+  tag: 8.0.0
 environment: staging
