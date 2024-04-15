@@ -1,5 +1,5 @@
 replicas: 3
 image:
   repository: manuel814/spring
-  tag: 4.0.0
+  tag: 5.0.0
 environment: production
